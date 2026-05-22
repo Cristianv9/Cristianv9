@@ -1,7 +1,7 @@
 # Crisitian Villalobos
 
 ##  Bio
-```I'm a current student at Eastern Washington University majoring in VCD and working on getting my certificate in Front-End Web Design. I also helped a friend build an engine just for it to blow up in matter of days```
+```I'm a studied at Eastern Washington University majoring in VCD and got a minor in Front-End Web Design. I also helped a friend build an engine just for it to blow up in matter of days```
 
 ![so over it](https://media.tenor.com/vHmh_43U_iwAAAAi/bang-my-head-irritated.gif)
 
